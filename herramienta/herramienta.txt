@@ -1,0 +1,6 @@
+La herramienta usada para este experimento puede ser descargada desde:
+Cliente: https://github.com/toolexp/ET_Client
+Servidor: https://github.com/toolexp/ET_Server
+
+
+Seguimos trabajando para mejorar la herramienta :) y pronto obtendremos una nueva versión mejorada.
